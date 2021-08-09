@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>461570278552-iianmqpta6s65nsr1aq9ajv47scgfn01.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.461570278552-iianmqpta6s65nsr1aq9ajv47scgfn01</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>461570278552-gee016jcacjnb74m446mm1j0f4q5ig69.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-iSqR6bKMnrk-nI70SHSALWJ8eAOFq1o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>461570278552</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smile.storyDigital</string>
+	<key>PROJECT_ID</key>
+	<string>storydigital-4b5cb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>storydigital-4b5cb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:461570278552:ios:e35774d24fa7f569097ced</string>
+</dict>
+</plist>
